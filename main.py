@@ -809,16 +809,16 @@ def help():
     stdout.write("             "+Fore.LIGHTMAGENTA_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX+"exit     "+Fore.LIGHTMAGENTA_EX+"|"+Fore.LIGHTRED_EX+" Exit Lithium machine                       "+Fore.LIGHTMAGENTA_EX+"║\n")
     stdout.write("             "+Fore.LIGHTMAGENTA_EX            +"╠═════════════════════════════════════════════════════╣\n")
     stdout.write("             "+Fore.LIGHTMAGENTA_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX+"THANK    "+Fore.LIGHTMAGENTA_EX+"|"+Fore.LIGHTRED_EX+" Lithium runs u.                "+Fore.LIGHTMAGENTA_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTMAGENTA_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX+"YOU♥     "+Fore.LIGHTMAGENTA_EX+"|"+Fore.LIGHTRED_EX+" Creator: verlon - vdsfsdsdf discord                  "+Fore.LIGHTMAGENTA_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTMAGENTA_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX+"YOU♥     "+Fore.LIGHTMAGENTA_EX+"|"+Fore.LIGHTRED_EX+" Creator: slytherin - imslyth discord                  "+Fore.LIGHTMAGENTA_EX+"║\n")
     stdout.write("             "+Fore.LIGHTMAGENTA_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX+"the best choice  "+Fore.LIGHTMAGENTA_EX+"|"+Fore.LIGHTRED_EX+" lithium     "+Fore.LIGHTMAGENTA_EX+"║\n")
     stdout.write("             "+Fore.LIGHTMAGENTA_EX            +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
 def credit():
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╗\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX   +"Developer "+Fore.LIGHTRED_EX+": \x1b[38;2;0;255;189mVerlon\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX   +"UI Design "+Fore.LIGHTRED_EX+": \x1b[38;2;0;255;189mVerlon\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX   +"Methods/Tools "+Fore.LIGHTRED_EX+": \x1b[38;2;0;255;189mVerlon\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX   +"Developer "+Fore.LIGHTRED_EX+": \x1b[38;2;0;255;189mSlytherin\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX   +"UI Design "+Fore.LIGHTRED_EX+": \x1b[38;2;0;255;189mSlytherin\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTRED_EX   +"Methods/Tools "+Fore.LIGHTRED_EX+": \x1b[38;2;0;255;189mSlytherin\n")
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╝\n")
     stdout.write("\n")    
 ##############################################################################################
@@ -889,7 +889,7 @@ def title():
     stdout.write("             "+Fore.LIGHTMAGENTA_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTMAGENTA_EX+"║ "+Fore.LIGHTRED_EX   +"        Welcome To the Lithium hell "+Fore.LIGHTMAGENTA_EX  +"       ║\n")
     stdout.write("             "+Fore.LIGHTMAGENTA_EX+"║ "+Fore.LIGHTRED_EX   +"          Type [help] to see the Commands    "+Fore.LIGHTMAGENTA_EX +"       ║\n")
-    stdout.write("             "+Fore.LIGHTMAGENTA_EX+"║ "+Fore.LIGHTRED_EX   +"         Contact Dev - vrln. - discord  "+Fore.LIGHTMAGENTA_EX +"        ║\n")
+    stdout.write("             "+Fore.LIGHTMAGENTA_EX+"║ "+Fore.LIGHTRED_EX   +"         Contact Dev - imslyth - discord  "+Fore.LIGHTMAGENTA_EX +"        ║\n")
     stdout.write("             "+Fore.LIGHTMAGENTA_EX+"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
